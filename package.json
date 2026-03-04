@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://swetakatrodiyaTech.github.io/SWETA_KATRODIYA_PORTFOLIO/",
+  "homepage": "https://swetakatrodiyatech.github.io/SWETA_KATRODIYA_PORTFOLIO/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
