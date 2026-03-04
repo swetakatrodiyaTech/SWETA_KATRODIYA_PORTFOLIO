@@ -1,6 +1,7 @@
 import Reveal from "./Reveal";
 import { PERSONAL_INFO } from "../data/portfolioData";
 import { useTheme } from "../context/ThemeContext";
+import swetaImage from "../assets/sweta.jpg";
 
 export default function Hero({ scrollTo }) {
   const { isDark } = useTheme();
@@ -120,7 +121,7 @@ export default function Hero({ scrollTo }) {
                 <div className="photo-orbit-ring" />
                 {/* Photo */}
                 <img
-                  src="/sweta.jpg"
+                  src={swetaImage}
                   alt="Sweta Katrodiya"
                   className="hero-photo"
                 />
