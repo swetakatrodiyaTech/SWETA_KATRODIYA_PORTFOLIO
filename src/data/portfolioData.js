@@ -4,7 +4,7 @@ export const NAV_LINKS = ["About", "Skills", "Experience", "Projects", "Contact"
 // Skills data
 export const SKILLS = [
   { category: "Languages", items: ["JavaScript", "TypeScript", "HTML5", "CSS3"] },
-  { category: "Framework", items: ["ReactJS", "Next.js"] },
+  { category: "Framework", items: ["ReactJS"] },
   { category: "UI Libraries", items: ["Chakra UI", "Tailwind CSS", "Bootstrap", "Material-UI"] },
   { category: "Backend", items: ["Node.js", "REST APIs", "Socket.io", "Express"] },
   { category: "Tools", items: ["Git", "GitHub", "Vite", "npm", "Figma"] },
